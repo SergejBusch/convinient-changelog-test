@@ -3,6 +3,6 @@ module.exports = {
         { type: 'feat', section: 'Features' },
         { type: 'feature', section: 'Features' },
         { type: 'fix', section: 'Bug Fixes' },
-        { type:  'refactor', section: 'Refactor'}
+        { type: 'refactor', section: 'Refactor' }
     ],
 };
